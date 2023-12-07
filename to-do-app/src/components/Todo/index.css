@@ -1,0 +1,14 @@
+.TodoContainer {
+  display: flex;
+  align-items: center;
+  height: 72px;
+  width: 70vw;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+.checkInput {
+  margin-left: 14px;
+  height: 20px;
+  width: 20px;
+}
